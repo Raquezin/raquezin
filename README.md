@@ -13,7 +13,7 @@
 ## Main achievements
 
 - Admin of [**the Algorithms Club at the University of Seville**](https://clubalgoritmiaus.es).
-- I won second place in the Andalusian Informatics Olympiad(OIA).
+- 2nd Place in the Andalusian Olympiad in Informatics
 - Third place at the 30th edition of Startup Weekend, and received a mention in the INCIBE Cybersecurity competition.
 
 ## My builds
